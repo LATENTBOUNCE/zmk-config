@@ -9,6 +9,6 @@
                 &kp LSHFT LB                                                                      &kp HOME &kp PG_UP                                        RB                           &kp RSHFT \
                 &mo 2     &kp GRAVE &kp CAPS &kp LEFT &kp RIGHT                              LH   &kp END  &kp PG_DN   RH                      &kp UP &kp DOWN  &kp LBKT &kp RBKT &mo 2)
 
-#include "zmk-helpers/key-labels/adv360_custom.h"
+#include "zmk-helpers/key-labels/adv360.h"
 #include "base.keymap"
 
